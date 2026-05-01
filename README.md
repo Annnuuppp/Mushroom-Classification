@@ -141,12 +141,3 @@ The notebook is fully self-contained and runs top-to-bottom without external sta
 #### Performance Evaluation
 
 Performance metrics (accuracy, AUC-ROC, MCC, confusion matrix, ROC curve) are computed and displayed in Section 4.3–4.4 of the notebook. No separate evaluation script is needed.
-
----
-
-## Citations
-
-- Schlimmer, J. (1987). *Mushroom Records drawn from The Audubon Society Field Guide to North American Mushrooms.* UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/mushroom
-- Lincoff, G. (1981). *The Audubon Society Field Guide to North American Mushrooms.* Alfred A. Knopf.
-- Dua, D. and Graff, C. (2019). UCI Machine Learning Repository. University of California, Irvine. http://archive.ics.uci.edu/ml
-- Pedregosa et al. (2011). Scikit-learn: Machine Learning in Python. *JMLR* 12, pp. 2825–2830.
