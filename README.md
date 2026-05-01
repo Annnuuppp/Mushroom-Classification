@@ -2,7 +2,7 @@
 
 # Mushroom Edibility Classification
 
-**This repository holds an attempt to classify mushrooms as edible or poisonous using a Random Forest on the UCI Mushroom dataset from the [Kaggle Mushroom Classification challenge](https://www.kaggle.com/datasets/uciml/mushroom-classification).**
+**This repository is project to classify mushrooms as edible or poisonous using a Random Forest on the UCI Mushroom dataset from the [Kaggle Mushroom Classification challenge](https://www.kaggle.com/datasets/uciml/mushroom-classification).**
 
 ---
 
