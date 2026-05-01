@@ -58,14 +58,6 @@ The dataset is nearly balanced (4208 edible / 3916 poisonous), so no resampling 
   - `random_state=42` — reproducible results
 - **No explicit loss function tuning** — RF optimizes Gini impurity internally.
 
-### Training
-
-- **Software:** Python 3.11, scikit-learn 1.x, pandas, matplotlib, seaborn.
-- **Hardware:** CPU only (no GPU required — tree ensembles on 8K rows train in < 5 seconds).
-- **Training time:** ~3 seconds on a modern laptop CPU.
-- **Stopping criterion:** N/A — Random Forest trains in one pass (no iterative epochs).
-- **Difficulties:** None. The dataset is clean and well-structured.
-
 ### Performance Comparison
 
 **Key metrics:**
