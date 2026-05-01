@@ -83,10 +83,6 @@ Zero misclassifications on 2,600 total held-out samples.
 - 100% accuracy on this dataset is well-documented in the literature and not a sign of leakage or overfitting.
 
 ### Future Work
-
-- Compute **SHAP values** to generate interpretable, per-prediction explanations — critical for safety-sensitive applications.
-- Find the **minimal feature subset** (likely just odor + 1–2 others) that preserves ≥ 99.9% accuracy, enabling a practical field identification rule.
-- Test a **Logistic Regression** baseline to see if linear separability holds.
 - Evaluate **noise robustness** by randomly flipping feature values and measuring accuracy degradation.
 - Extend to **real-world image data** paired with these tabular features for multi-modal classification.
 
